@@ -57,12 +57,7 @@
 
 ## :robot: Technologies
 
-- [x] ⚛ React.js
-- [x] ⚛ TypeScript
-- [x] 💅 Styled Components
-
-
-
+- [x] ⚛ ReactNative
 
 
 <br />
