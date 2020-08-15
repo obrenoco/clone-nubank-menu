@@ -86,9 +86,10 @@ Then, on your terminal you run
 2. Run `yarn start`
 
 
-3- Install on your computer [AndroidStudio](https://react-native.rocketseat.dev/).;
-   Then Run `react-native run-android` . 
-
+3. Install on your computer [AndroidStudio](https://react-native.rocketseat.dev/).;
+   Then Run `react-native run-android`
+   
+   
 <br />
 
 
